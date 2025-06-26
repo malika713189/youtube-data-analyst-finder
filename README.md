@@ -1,4 +1,5 @@
 # ▶️ YouTube Data Analyst Course Finder
+🚀 [Live App on Streamlit](https://youtube-data-analyst-finder-ctjfkbtp4usktsunkftkqn.streamlit.app)
 
 A smart video recommendation tool to help aspiring and current data analysts find **short, high-quality tutorials** across tools like SQL, Excel, Python, Power BI, and more.
 
